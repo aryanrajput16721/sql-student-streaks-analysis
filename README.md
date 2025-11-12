@@ -42,7 +42,7 @@ SET @streak_count := 0;
 SET @prev_user_id := NULL;
 SET @prev_streak_active := NULL;
 
-2️⃣ Calculate Each User’s Streak
+#### 2️⃣ Calculate Each User’s Streak
 CREATE TEMPORARY TABLE streaks_new AS (
   SELECT 
     user_id,
@@ -59,7 +59,7 @@ CREATE TEMPORARY TABLE streaks_new AS (
   ORDER BY user_id, streak_created
 );
 
-3️⃣ Identify Top Performers
+#### 3️⃣ Identify Top Performers
 SELECT 
   user_id, 
   MAX(streak_length) AS max_streak
@@ -68,17 +68,14 @@ GROUP BY user_id
 HAVING max_streak >= 30
 ORDER BY max_streak DESC;
 
-
----
-
 ---
 
 ## ✨ Key Insights
 
-- 🔥 Identified users with **30+ day streaks** — showcasing long-term learner commitment  
-- 🧠 Demonstrated **SQL logic** for real-world EdTech analytics  
-- 📈 Highlighted **user engagement and consistency**  
-- 💪 Strong example of **data-driven learner analysis**
+🔥 Identified users with **30+ day streaks** — showcasing long-term learner commitment  
+🧠 Demonstrated **SQL logic** for real-world EdTech analytics  
+📈 Highlighted **user engagement and consistency**  
+💪 Strong example of **data-driven learner analysis**
 
 ---
 
@@ -97,4 +94,5 @@ ORDER BY max_streak DESC;
 **Aryan Kashyap**  
 📊 *Aspiring Data Analyst* | *SQL & Data Visualization Enthusiast*  
 ❤️ Passionate about turning raw data into actionable insights  
-📍 India
+📍 *India*
+
