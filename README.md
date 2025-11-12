@@ -68,28 +68,31 @@ GROUP BY user_id
 HAVING max_streak >= 30
 ORDER BY max_streak DESC;
 
-## 🏁 **Key Insights**
-
-- 🔥 **Identified users with 30+ day streaks** — showcasing long-term learner commitment  
-- 🧠 **Employed SQL logic** for real-world EdTech analysis  
-- 📈 **Highlighted user engagement and consistency**  
-- 🎯 **Strong example of data-driven learner analysis**
 
 ---
 
-## 🧠 **Tools Used**
+## ✨ Key Insights
+
+- 🔥 Identified users with **30+ day streaks** — showcasing long-term learner commitment  
+- 🧠 Demonstrated **SQL logic** for real-world EdTech analytics  
+- 📈 Highlighted **user engagement and consistency**  
+- 💪 Strong example of **data-driven learner analysis**
+
+---
+
+## 🧰 Tools Used
 
 | Tool | Purpose |
-|------|---------|
-| 🛠️ **SQL Workbench/J** | Writing and executing SQL queries |
-| 🐬 **MySQL Remote Practice DB** | Source database for simulation |
-| 🌐 **GitHub** | Documentation, screenshots, and analysis |
+|------|----------|
+| 🧮 **MySQL Workbench** | Writing and executing SQL queries |
+| 🗂️ **365 Data Science SQL Practice Database** | Source database for simulation |
+| 💻 **GitHub** | Documentation, screenshots, and sharing |
 
 ---
 
-## ✨ **Author Spotlight**
+## 👤 Author Spotlight
 
 **Aryan Kashyap**  
 📊 *Aspiring Data Analyst* | *SQL & Data Visualization Enthusiast*  
-🎯 Passionate about turning raw data into actionable insights  
+❤️ Passionate about turning raw data into actionable insights  
 📍 India
