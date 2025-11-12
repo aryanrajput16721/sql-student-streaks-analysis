@@ -68,23 +68,23 @@ GROUP BY user_id
 HAVING max_streak >= 30
 ORDER BY max_streak DESC;
 
-🏁 Insights
+### 🏁 Insights
 
-Identified users with 30+ day streaks
+- Identified users with 30+ day streaks
 
-Demonstrates SQL logic for real-world EdTech analytics
+- Demonstrates SQL logic for real-world EdTech analytics
 
-Highlights user engagement and consistency
+- Highlights user engagement and consistency
 
-Strong example of data-driven learner analysis
+- Strong example of data-driven learner analysis
 
-🧠 Tools Used
+### 🧠 Tools Used
 
-MySQL Workbench
+- MySQL Workbench
 
-365 Data Science SQL Practice Database
+- 365 Data Science SQL Practice Database
 
 GitHub for documentation & sharing
 
-✨ Author Spotlight
+### ✨ Author Spotlight
 Aryan Kashyap 📊 Aspiring Data Analyst | SQL & Data Visualization Enthusiast 🎯 Passionate about turning raw data into actionable insights 📍 India
