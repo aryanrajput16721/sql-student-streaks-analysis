@@ -71,6 +71,8 @@ ORDER BY max_streak DESC;
 
 ---
 
+---
+
 ## ✨ Key Insights
 
 - 🔥 Identified users with **30+ day streaks** — showcasing long-term learner commitment  
