@@ -86,8 +86,5 @@ MySQL Workbench
 
 GitHub for documentation & sharing
 
-✨ Author
-
-Aryan Kashyap
-📊 Aspiring Data Analyst | SQL & Data Visualization Learner
-📍 India
+✨ Author Spotlight
+Aryan Kashyap 📊 Aspiring Data Analyst | SQL & Data Visualization Enthusiast 🎯 Passionate about turning raw data into actionable insights 📍 India
