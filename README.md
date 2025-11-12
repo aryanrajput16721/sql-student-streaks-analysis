@@ -71,7 +71,7 @@ ORDER BY max_streak DESC;
 ## 🏁 **Key Insights**
 
 - 🔥 **Identified users with 30+ day streaks** — showcasing long-term learner commitment  
-- 🧠 **Demonstrated SQL logic** for real-world EdTech analytics  
+- 🧠 **Employed SQL logic** for real-world EdTech analysis  
 - 📈 **Highlighted user engagement and consistency**  
 - 🎯 **Strong example of data-driven learner analysis**
 
@@ -81,9 +81,9 @@ ORDER BY max_streak DESC;
 
 | Tool | Purpose |
 |------|---------|
-| 🛠️ **MySQL Workbench** | Writing and executing SQL queries |
-| 📚 **365 Data Science SQL Practice Database** | Source database for simulation |
-| 🌐 **GitHub** | Documentation, screenshots, and sharing |
+| 🛠️ **SQL Workbench/J** | Writing and executing SQL queries |
+| 🐬 **MySQL Remote Practice DB** | Source database for simulation |
+| 🌐 **GitHub** | Documentation, screenshots, and analysis |
 
 ---
 
